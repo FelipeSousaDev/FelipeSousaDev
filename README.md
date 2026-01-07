@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Sousa | Data Analyst & Engineer 📊
 
-<!--
-**FelipeSousaDev/FelipeSousaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo grandes volumes de dados em decisões estratégicas. Especialista em unir a robustez do **SQL** com a flexibilidade do **Python (Pandas)** para resolver problemas de negócio.
 
-Here are some ideas to get you started:
+### 🛠 No que eu sou bom:
+- **Linguagens:** Python (Pandas, Numpy, Seaborn), SQL (PostgreSQL, MySQL).
+- **Análise:** Séries Temporais, Análise Exploratória (EDA), Métricas de E-commerce (KPIs).
+- **Dados:** Extração de APIs financeiras, Tratamento de dados sujos (Data Cleaning), ETL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque:
+1. **[Análise de Eficiência Logística - E-commerce]:** Identificação de gargalos em 100k+ pedidos reais.
+2. **[Resiliência de Dividendos - KNCR11]:** Estudo sobre o comportamento de ativos financeiros em datas-ex.
+
+---
+📫 **Contato:** [https://www.linkedin.com/in/felipeb26/] | [felipesousa.b1@gmail.com]
