@@ -16,7 +16,7 @@ Construo pipelines completos — do banco de dados relacional até dashboards ex
 
 ### 🚀 Projetos em Destaque
 
-**1. [Growth & Risk Engine](https://github.com/FelipeSousaDev/growth-risk-engine)**  
+**1. [Crescimento e risco](https://github.com/FelipeSousaDev/crescimento-e-risco)**  
 Projeto end-to-end sobre o dataset da Olist (100k+ pedidos reais).  
 Pipeline completo: SQL Server → Python ETL → Data Science → Power BI.  
 Principal insight: 66,67% dos pedidos perdidos concentrados no cartão de crédito.  
